@@ -1,0 +1,13 @@
+CamelCase - class names
+
+camel_case - file names and functions
+
+Variables are named via Hungarian Notation:
+CamelCase preceded by its type
+examples:
+	bBusy: boolean
+	pFoo:  pointer
+	nSize: integer (for counting)
+	iSize: integer (as an index)
+global variables are also preceded by g_
+members of a structure/class are also preceded by m_
